@@ -1,0 +1,20 @@
+.about{
+    width: 100%;
+    padding: 15px;
+    height: 400px;
+    box-sizing: border-box;
+    background-color:darkseagreen;
+    color: black;
+    margin: 0;
+    float: left;
+    overflow: hidden;
+    border-radius: 2%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+.volkswagen{
+    background-color:darkolivegreen;
+}
